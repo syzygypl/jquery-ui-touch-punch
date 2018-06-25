@@ -1,5 +1,5 @@
 {
   "name": "jquery-ui-touch-punch-szg",
   "version": "1.1.0",
-  "main": "jquery.ba-outside-events.min.js"
+  "main": "jquery.ui.touch-punch.min.js"
 }
